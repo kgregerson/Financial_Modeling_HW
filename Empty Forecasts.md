@@ -1,7 +1,8 @@
- # Kyle Gregerson
+ ## Kyle Gregerson
+ 
  **Professor Brough**
  
- *Empty forecasts*
+ *Empty Forecasts*
    
    On November 1st, 2016, MasTec will release their earnings report for their third quarter, and I predict that the stock price will increase - from beating analyst expectations for the company. However much I want this to be true - and given that D.A. Davidson currently owns $7,500 dollars of equity in MasTec, due to a pitch that I presented in a student investment class in September – I would want this to be true. However, smarter men than me argue that in accordance with the efficient – market hypothesis, the current stock price is reflecting the probability of MasTec beating analyst expectations, but more than that the stock price will fluctuate according to a random walk given a particular time horizon. This means that my initial statement is nothing more than a mindless forecast, notwithstanding critique.
  
