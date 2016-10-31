@@ -1,4 +1,4 @@
- ** Kyle Gregerson **
+ **Kyle Gregerson**
  
  **Professor Brough**
  
